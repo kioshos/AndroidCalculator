@@ -81,7 +81,7 @@
 
             </com.google.android.material.button.MaterialButton>
             <com.google.android.material.button.MaterialButton
-                android:id="@+id/button_divide"
+                android:id="@+id/button_Divide"
                 style="@style/Widget.Material3.FloatingActionButton.Tertiary"
                 android:layout_width="82dp"
                 android:layout_height="82dp"
@@ -140,7 +140,7 @@
                 android:text="X"
                 android:textSize="32dp"
                 android:textColor="@color/white"
-                android:id="@+id/button_Miltiply"
+                android:id="@+id/button_Multiply"
                 android:layout_margin="5dp"
                 android:backgroundTint="#E7A47E">
 
